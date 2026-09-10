@@ -1,0 +1,7 @@
+{
+  "name": "Código Secreto - Jogo do 4º Ano",
+  "description": "Jogo educativo de codificação e decodificação da informação baseado na habilidade EF04CO04 da BNCC para alunos do 4º ano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
